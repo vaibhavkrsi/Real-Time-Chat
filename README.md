@@ -8,6 +8,8 @@ Hooks used -:
 useEffect
 useReducer 
 useState
+useNavigate 
+useRef
 
 Instead of props drilling we have used context Api for better communication between components.
  
