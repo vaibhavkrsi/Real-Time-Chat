@@ -5,12 +5,12 @@ import { getStorage } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC8YkVuIxdjELMUFxlzFzXCqconCH5nET0",
-  authDomain: "chat-cecca.firebaseapp.com",
-  projectId: "chat-cecca",
-  storageBucket: "chat-cecca.appspot.com",
-  messagingSenderId: "724817532951",
-  appId: "1:724817532951:web:97901ab92e5424b2242452"
+  apiKey: "your api key",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 // Initialize Firebase
